@@ -1,13 +1,20 @@
 ### Welcome to the End Archive 🐲
 
-Hey there, Narassin here and this is the End Archive. Just your normal Software Engineer in training doing the thing he loves. I store all my project here, both coursework and personal sidework. 
+Hey there, Narassin here and this is the End Archive. Just your normal Software Engineer in training doing the thing he loves. I store all my project here, both coursework and personal sidework. I also stream on twitch.tv at [Narassin](twitch.tv/narassin)
 
 ### Current Projects / Works:
-- Hatsune Miku Magical Mirai Programming Contest 2023 (Procon)
 - Sedia Hidang
-- Local Cloud Gaming
 - Malay Software Engineering Terminology
+- VrChat world
 
+### Currently  Learning
+- (Web)Javascript
+- (Unity)C#
+
+### Current Goal
+- Be Proficient in all aspect of Full-stack Web Developement
+- Recreate classic game and give it a little twist
+- Get into XR Development (Start with AR then VR then MR)
 
 <br>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=narassin&theme=tokyonight&show_icons=true" alt="Narassin's Stats" />
