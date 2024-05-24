@@ -1,6 +1,6 @@
 ### Welcome to the End Archive 🐲
 
-Hey there, Narassin here and this is the End Archive. Just your normal Software Engineer in training doing the thing he loves. I store all my project here, both coursework and personal sidework. I also stream on twitch.tv at [Narassin](twitch.tv/narassin)
+Hey there, Narassin here and this is my End Archive. Just your normal Software Engineer in training doing the thing he loves. I store all my project here, both coursework and personal sidework. I also stream on twitch.tv at [Narassin](twitch.tv/narassin)
 
 ### Current Projects / Works:
 - Sedia Hidang
