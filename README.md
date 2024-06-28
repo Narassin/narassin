@@ -1,6 +1,7 @@
-### Welcome to the End Archive 🐲
+### Hello Everyone, I'm Narassin aka Captain N 🐲
 
-Hey there, Narassin here and this is my End Archive. Just your normal Software Engineer in training doing the thing he loves. I store all my project here, both coursework and personal sidework. I also stream on twitch.tv at [Narassin](twitch.tv/narassin)
+Just your average Developer doing the thing he loves. I store all my project here, both coursework and personal sidework. I sometimes my coding  stream on twitch.tv at [Narassin](twitch.tv/narassin)
+
 
 ### Current Projects / Works:
 - Sedia Hidang
@@ -8,7 +9,7 @@ Hey there, Narassin here and this is my End Archive. Just your normal Software E
 - VrChat world
 
 ### Currently  Learning
-- (Web)Javascript
+- (Web)NextJs
 - (Unity)C#
 
 ### Current Goal
