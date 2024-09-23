@@ -1,3 +1,4 @@
+> Profile Picture by the [Talented Artist Cieby](https://x.com/cieby_vt)
 # 💫 About Me:
 ### Hello Everyone, I'm Narassin aka Captain N 🐲
 
@@ -44,6 +45,7 @@ Just your average Developer doing the thing he loves. I store all my project her
 
 ## 💰 You can help me by Donating
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/captain_narassin)
+[![Gank](https://img.shields.io/badge/Gank-logo?style=for-the-badge&logoColor=ed5c5e&label=g&labelColor=ed5c5e&color=393e5e)](https://ganknow.com/narassin)
 
 </div>
 
