@@ -1,4 +1,3 @@
-> Profile Picture by the [Talented Artist Cieby](https://x.com/cieby_vt)
 # 💫 About Me:
 ### Hello Everyone, I'm Narassin aka Captain N 🐲
 
